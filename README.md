@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 LB Music 」──
+    ── ༏༏─͢𝐀𝐱 𝐌𝐮𝐳𝐢𝐜•⚡𝆺꯭𝅥༎ ──
 </h2>
 
 <p align="center">

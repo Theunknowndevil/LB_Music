@@ -7,8 +7,8 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH", "")
+API_ID = int(getenv("API_ID", "24598821"))
+API_HASH = getenv("API_HASH", "ad13216ba888b295d369885a1da2295f")
 
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN", None)
@@ -80,18 +80,18 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://graph.org/file/9d49711e96d3b463f5ea8.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/9d49711e96d3b463f5ea8.jpg"
+    "PING_IMG_URL", "https://graph.org/file/84482a7e6ec2f6b41d682.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/9d49711e96d3b463f5ea8.jpg"
-STATS_IMG_URL = "https://graph.org/file/9d49711e96d3b463f5ea8.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/9d49711e96d3b463f5ea8.jpg"
-TELEGRAM_VIDEO_URL = "https://graph.org/file/9d49711e96d3b463f5ea8.jpg"
-STREAM_IMG_URL = "https://graph.org/file/9d49711e96d3b463f5ea8.jpg"
-SOUNCLOUD_IMG_URL = "https://graph.org/file/9d49711e96d3b463f5ea8.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/9d49711e96d3b463f5ea8.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/9d49711e96d3b463f5ea8.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/9d49711e96d3b463f5ea8.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/9d49711e96d3b463f5ea8.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/99ef93eb840cd580ef218.jpg"
+STATS_IMG_URL = "https://graph.org/file/42df2cda3b92b63be3442.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/52d70bed0f318b008f545.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/9e6ef9d2aa7fd208823a0.jpg"
+STREAM_IMG_URL = "https://graph.org/file/5de3485b8b275bfa2923c.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/821a0c035e2cb23a0cf1c.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/56cc3b875fd3741eaa2dd.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/3d3282e1fe30e7a6357a2.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/949320d1afc47fa68f44e.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/f366cc138127a2658d136.jpg"
 
 
 def time_to_seconds(time):
